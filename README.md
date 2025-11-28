@@ -27,6 +27,3 @@ To run this project locally, simply follow these steps:
 
 
 
-## 🤝 Contribution
-
-This project is a complete vanilla JS application designed to meet specific feature requirements. Feel free to use it as a starting point for more complex applications or for learning front-end fundamentals.

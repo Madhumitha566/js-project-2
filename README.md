@@ -5,12 +5,12 @@ A clean, responsive, and intuitive web application for tracking and managing per
 
 ## ✨ Features
 
-* ** Balance Summary:** Real-time display of **Total Income**, **Total Expenses**, and **Net Balance** at the top of the interface.
-* ** CRUD Operations:** Full functionality to **Create**, **Read**, **Update** (Edit), and **Delete** transactions.
-* ** Data Persistence:** Uses **Local Storage** to save all entries, ensuring data remains available across browser sessions.
-* ** Dynamic Filtering:** Easily switch between displaying **All**, **Income**, or **Expense** entries using radio button filters.
-* ** Responsive Design:** The layout is fully responsive, providing an excellent user experience on both **desktop** and **mobile devices**.
-* ** Clean Interface:** A modern, minimal design emphasizing readability and ease of use, with clear visual distinction between income and expense entries.
+* **Balance Summary:** Real-time display of **Total Income**, **Total Expenses**, and **Net Balance** at the top of the interface.
+* **CRUD Operations:** Full functionality to **Create**, **Read**, **Update** (Edit), and **Delete** transactions.
+* **Data Persistence:** Uses **Local Storage** to save all entries, ensuring data remains available across browser sessions.
+* **Dynamic Filtering:** Easily switch between displaying **All**, **Income**, or **Expense** entries using radio button filters.
+* **Responsive Design:** The layout is fully responsive, providing an excellent user experience on both **desktop** and **mobile devices**.
+* **Clean Interface:** A modern, minimal design emphasizing readability and ease of use, with clear visual distinction between income and expense entries.
 
 ##  Technology Stack
 
